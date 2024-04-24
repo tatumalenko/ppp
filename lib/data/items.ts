@@ -141,7 +141,7 @@ export default [
     name: "Milk Buckets",
     id: "milk_buckets",
     weight: 0.1,
-    row: "32",
+    row: "31",
   },
   {
     name: "Apple Juice",
