@@ -141,6 +141,28 @@ export default [
     name: "Milk Buckets",
     id: "milk_buckets",
     weight: 0.1,
-    row: "32",
+    row: "31",
+  },
+  {
+    name: "Apple Juice",
+    id: "apple_juice",
+    weight: 1.0,
+    row: "34",
+  },
+  {
+    name: "Grape Juice",
+    id: "grape_juice",
+    weight: 0.3,
+    row: "35",
+  },{
+    name: "Canned Corn",
+    id: "canned_corn",
+    weight: 0.3,
+    row: "36",
+  },{
+    name: "Tomato Paste",
+    id: "tomato_paste",
+    weight: 0.4,
+    row: "37",
   },
 ];
