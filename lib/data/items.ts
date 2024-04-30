@@ -120,24 +120,13 @@ export default [
     row: "25",
   },
   {
-    name: "Pig Skin",
-    id: "pig_skin",
-    weight: 0.5,
-    row: "27",
-  },
-  {
     name: "Milk",
     id: "milk",
     weight: 0.1,
     row: "29",
   },
-  {
-    name: "Empty Buckets",
-    id: "empty_buckets",
-    weight: 0.1,
-    row: "30",
-  },
-  {
+
+ {
     name: "Milk Buckets",
     id: "milk_buckets",
     weight: 0.1,
