@@ -84,12 +84,6 @@ export default [
     row: "19",
   },
   {
-    name: "Raw Ham",
-    id: "raw_ham",
-    weight: 0.35,
-    row: "20",
-  },
-  {
     name: "Raw Pork",
     id: "raw_pork",
     weight: 0.35,
@@ -112,12 +106,6 @@ export default [
     id: "cooked_pork",
     weight: 0.35,
     row: "24",
-  },
-  {
-    name: "Cooked Ham",
-    id: "cooked_ham",
-    weight: 0.35,
-    row: "25",
   },
   {
     name: "Milk",
