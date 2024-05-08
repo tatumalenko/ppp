@@ -107,7 +107,6 @@ export default [
     weight: 0.35,
     row: "24",
   },
-
   {
     name: "Milk",
     id: "milk",
