@@ -136,5 +136,11 @@ export default [
     id: "tomato_paste",
     weight: 0.4,
     row: "37",
-  },
+  }
+  {
+    name: "Corn",
+    id: "corn",
+    weight: 0.3,
+    row: "15",
+  },,
 ];
